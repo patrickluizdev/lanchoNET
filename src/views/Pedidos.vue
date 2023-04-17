@@ -1,5 +1,5 @@
 <template>
   <main>
-    <h1>HOME</h1>
+    <h1>Pedidos</h1>
   </main>
 </template>
